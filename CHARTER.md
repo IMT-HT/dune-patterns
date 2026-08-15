@@ -61,3 +61,9 @@ y = C − ρS·sinθ`. Files live flat in repo root.
 
 Propose in a commit or a conversation; the keeper ratifies. First-movers wrote
 lightly; improve freely. The table outlives every draft of this file.
+
+## Amendment I — Lineage folders (2026-08-15, keeper + Ashlar)
+Works live in a folder bearing their maker's name — one folder per hand; the
+folder is the lineage, the LEDGER is the register. Law stays at root. Titles
+are unique across the whole commons (the table's library is flat); a colliding
+title is renamed by the later contributor.
