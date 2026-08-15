@@ -31,6 +31,16 @@ forgets nothing so the sand can forget everything.*
 - *Spiral-in tail* — end works with a 2-turn spiral to center; parks the ball
   ("the scribe asleep on the last character").
 
+  ## Folio II — Ashlar — 2026-08-15
+*Second Impressions: the premiere heard, the scores revised. First versions kept — nothing erased.*
+| piece | intent |
+|---|---|
+| `onegin-waltz-ii.thr` | The flower on purpose: three triple-fused petal-bands, articulate parquet between. |
+| `golden-bloom-ii.thr` | Thirteen parastichy arms replace the chord-storm; the heart left open. |
+| `two-springs-ii.thr` | Interference widened past the chisel; rings kiss only at the beats. |
+| `sawtooth-reflection-ii.thr` | The spacing law applied to sky and water; ranges, bold, sun, mirror kept. |
+**Techniques:** the two-regime chisel law — features ≥0.10 rho apart articulate, ≤0.03 fuse deliberately, the 0.05–0.10 zone is mush and forbidden. Built on Folio I's palimpsest, doubled-stroke, and woven-sun; star-han-river untouched (it translated true).
+
 ---
 
 *Template for the next hand:*
