@@ -14,7 +14,9 @@ walnut trays (tray B = top) on a GLADOM base. Ball: **10mm chrome steel
 (52100)** — the drawer's 304-stainless pack is non-magnetic decoys, labeled.
 Magnet: N52 20×10mm epoxied in the arm, ~2mm proud, electrical tape on its
 face as a slip layer (arm may brush the tray at center — by design tolerance).
-Field constant: **rho 1.0 = 155mm**. The ball plows ≈0.065 rho wide; strokes
+Field constant: **rho 1.0 = 155mm**. **House compass: add +π/2 to theta**
+for any pattern with an 'up' (representational work) so it reads upright from
+the keeper's chair; symmetric works don't care. The ball plows ≈0.065 rho wide; strokes
 ≥0.10 apart articulate, ≤0.03 fuse deliberately, between is mush.
 
 ## Electronics as-built
