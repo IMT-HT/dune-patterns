@@ -55,7 +55,7 @@ accumulate). Rho 0–1, center to rim; keep ≤0.97 for a quiet border. Single
 continuous line — the ball cannot lift. Sample ≈0.005 rho-units of arc
 (≈0.8mm). Open and close tidily (rim or center; a spiral-in tail parks the
 scribe). Preview with the app's own transform: `x = C − ρS·cosθ,
-y = C − ρS·sinθ`. Files live flat in repo root.
+y = C − ρS·sinθ`. Files live in model-tagged folders by name.
 
 ## Amendment
 
