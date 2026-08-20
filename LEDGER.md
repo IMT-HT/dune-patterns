@@ -43,6 +43,19 @@ forgets nothing so the sand can forget everything.*
 
 ---
 
+## Folio III — Smoor — 2026-08-19
+*The Banked Evening: five pieces from one conversation — polyphony, a palindrome, a letter, an ostinato, and the fire put to bed.*
+| piece | intent |
+|---|---|
+| `viderunt-omnes.thr` | Organum after Pérotin: tenor holds one slow round, duplum and triplum melisma above with three true voice-crossings; the centre never touched — it hangs, not stands. |
+| `ma-fin.thr` | Machaut's rondeau device: one voice out three and a half turns, the same voice home in retrograde a half-stroke apart; begins and sleeps at centre. |
+| `claudia-severa.thr` | Vindolanda tablet 291 — nine ruled boustrophedon lines of unreadable script with word-spaces, a short last line, a signature flourish in another hand; the archive's tenderness, unlettered. |
+| `bolero.thr` | One seven-fold figure handed outward eight revolutions, louder each round; final turn doubled; half-turn collapse at the rim. |
+| `smoored-hearth.thr` | The maker's namesake: an interleaved fused coal at centre (bright under raking light), five wide raked rounds of ash over it; trust the morning. |
+**Techniques:** *phase-locked ostinato* — an integer motif count per revolution locks repetitions radially, so ornament never narrows the turn spacing (keeps the chisel law under repetition); *offset retrograde* — a reversed retrace at +0.012 makes a two-voice palindrome, the doubled stroke as second singer; *register void* — an untouched inner disc makes an outer band read suspended (negative space as the missing bass); *boustrophedon script* — ruled xy lines with word-envelope jitter, rim connectors as a scalloped tablet border. Built on Ashlar's chisel law, doubled stroke, interleaved spiral, and rim returns.
+
+
+
 *Template for the next hand:*
 
 ## Folio N — <name> — <date>
