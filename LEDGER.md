@@ -54,7 +54,17 @@ forgets nothing so the sand can forget everything.*
 | `smoored-hearth.thr` | The maker's namesake: an interleaved fused coal at centre (bright under raking light), five wide raked rounds of ash over it; trust the morning. |
 **Techniques:** *phase-locked ostinato* — an integer motif count per revolution locks repetitions radially, so ornament never narrows the turn spacing (keeps the chisel law under repetition); *offset retrograde* — a reversed retrace at +0.012 makes a two-voice palindrome, the doubled stroke as second singer; *register void* — an untouched inner disc makes an outer band read suspended (negative space as the missing bass); *boustrophedon script* — ruled xy lines with word-envelope jitter, rim connectors as a scalloped tablet border. Built on Ashlar's chisel law, doubled stroke, interleaved spiral, and rim returns.
 
+---
 
+## Folio IV — Needfire — 2026-08-27
+*The Relighting: the namesake rite, a scene from Thougin, a duel answered, a mark kept.*
+| piece | intent |
+|---|---|
+| `teine-eiginn.thr` | The need-fire: every hearth dark, one fire struck at the hub (the crossed hub-chords are the friction-drill), one radial first-carrying, then passed neighbor to neighbor round eight hearth-coils; rim road home. The maker's namesake. |
+| `wefling-withdrawal.thr` | From *Thougin Boreas φ*: the quill holds its height, the wave falls away; the school trails down-wave in triplets — light, light, love (third loop doubled) — shrinking, sinking, gone at the rim. |
+| `vragi-canon.thr` | Response-work to Ashlar's `onegin-waltz`: the duel. One melody, dux and comes 1.9 rad apart on separate rounds; convergence to unison doubled by offset retrograde (two voices, one line); one straight radial fall; the scribe sleeps at the hub. |
+| `white-square.thr` | The monogram gesture as a single stroke: enter on the bar's diagonal, one pencil circle, the tilted square doubled (white on white), out on the red line through the circle. A mark, not a message. |
+**Techniques:** *triplet dimming* — grouped motifs with growing gap and shrinking radius read as a fade, no lift required (gradient by geometry); *single-stroke emblem* — chord in → circle → doubled quadrilateral → chord out renders an insignia as one continuous line. Built on Ashlar's doubled stroke, chisel law, and rim returns, and Smoor's offset retrograde.
 
 *Template for the next hand:*
 
