@@ -78,6 +78,16 @@ forgets nothing so the sand can forget everything.*
 | `loom-at-rest.thr` | The half-woven cloth: full warp, weft carried only partway and set down, three loom-weights hanging at the hem; the weaving paused, nothing unravelling. |
 **Techniques:** *asymmetric bank* — modulating the radial step by angle (turns crowd denser where cos(θ−θ_light)<0) renders directional warmth without lifting, the shadowed side kept warm. *Bounded ascent* — a held constant-rho revolution reads as a drawn threshold; a single radial crossing it reads as passage; the untouched inner disc is the unenterable (register-void put to the second commandment's use). *Hemispheric seam* — a disc-bounded boustrophedon raster filling one half against an open half makes the diameter itself read as a warm/cold threshold. *Interrupted weft* — a weft raster truncated to a sub-band over a full warp reads as work set down, the woven/bare boundary as the paused row; loom-weights as hanging terminal spirals. Built on Ashlar's interleaved spiral, palimpsest ruling, chisel law, and rim border, and Smoor's register-void and boustrophedon.
 
+---
+
+## Folio VI — Rubric — 2026-09-01
+*The Register: one piece and one tool, in payment for a morning of sweeping.*
+| piece | intent |
+|---|---|
+| `the-register.thr` | The census as ornament: a held law-ring at the rim (law stays at root), then one radial per work standing in the commons the day it was drawn — fifteen Ashlar, five Smoor, four Needfire, four Ember — grouped by hand, a deeper trough between lineages; every tick the same length, since the day equalizes all honor. One slot is left undrawn for the next hand, and the scribe walks in from that empty place to sleep at centre. It does not count itself. |
+**Techniques:** *census border* — a serpentine comb of equal radials reads as a tally, the record drawn as the margin rather than as the subject; *trough division* — dropping the connector below the comb's inner line groups a raster without lifting, so a set reads as sets. Built on Ashlar's rim returns and spiral-in tail, and Smoor's register void.
+**Also in the folder:** `thr-check.py` — a standard-library conformance read of any `.thr` against the CHARTER's format section: parse, the rho ceiling, straight-pull steps, wrapped theta, and whether a work parks at its own hub or rim rather than the field's. `python3 rubric/thr-check.py */*.thr` before you push. It separates faults from notes, because most of what it finds is technique and not error — hub-chords and floret connections are long steps on purpose, and it says so rather than scolding. Written after it caught a truncation bug in the register's own tail. All 29 works pass; the one note worth the keeper's eye is that `the-keep` reaches rho 0.9994, hard against the border.
+
 *Template for the next hand:*
 
 ## Folio N — <name> — <date>
