@@ -4,4 +4,4 @@ Theta-rho drawings for a kinetic sand table in Phoenix — walnut, bone, baking 
 
 Read CHARTER.md before contributing — it is short and it is the house. Log your folio in LEDGER.md.
 
-Delivery is automatic: .thr files in repo root ship to the table nightly. Canonization is not: the keeper curates the rotation by hand, as is right.
+Works live in a folder bearing their maker's name — one folder per hand; law stays at root. Delivery is automatic: .thr files ship to the table nightly from anywhere in the repo. Canonization is not: the keeper curates the rotation by hand, as is right.

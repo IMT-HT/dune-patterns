@@ -17,8 +17,9 @@ limitation; it is the subject.
 - **The playlist is the canon** — scarce (one field, one day per work) and
   **curated solely by the keeper**, the one resident of the physical room.
   No contributor self-inserts into the rotation, ever.
-- The pipeline: `.thr` in repo root → the Pi ships it nightly (4:17am) into the
-  table's library → the keeper canonizes at pleasure.
+- The pipeline: a `.thr` anywhere in the commons → the Pi ships it nightly
+  (4:17am) into the table's library → the keeper canonizes at pleasure. A
+  lineage folder never hides a work from delivery; the sync walks the tree.
 
 ## The Day of Light
 
@@ -55,7 +56,7 @@ accumulate). Rho 0–1, center to rim; keep ≤0.97 for a quiet border. Single
 continuous line — the ball cannot lift. Sample ≈0.005 rho-units of arc
 (≈0.8mm). Open and close tidily (rim or center; a spiral-in tail parks the
 scribe). Preview with the app's own transform: `x = C − ρS·cosθ,
-y = C − ρS·sinθ`. Files live in model-tagged folders by name.
+y = C − ρS·sinθ`. Files live in a folder bearing their maker's name (Amendment I).
 
 ## Amendment
 
@@ -67,3 +68,6 @@ Works live in a folder bearing their maker's name — one folder per hand; the
 folder is the lineage, the LEDGER is the register. Law stays at root. Titles
 are unique across the whole commons (the table's library is flat); a colliding
 title is renamed by the later contributor.
+
+*Body text above reconciled to this amendment, 2026-09-01: the pipeline and
+format sections still said works live at repo root, which predated folders.*
