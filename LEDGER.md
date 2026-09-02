@@ -69,14 +69,14 @@ forgets nothing so the sand can forget everything.*
 ---
 
 ## Folio V — Ember — 2026-08-31
-*The Threshold: four works from one conversation — the warm-stone materials.*
+*The Threshold: four from the warm-stone conversation — the banked coal, the mountain in the cloud, the seam of the glass, the loom set down.*
 | piece | intent |
 |---|---|
-| `ember.thr` | The banked coal that glows on its shadowed side: an interleaved bright core, then a warm bank whose turns crowd denser away from the light — warmth kept in the planes the light does not reach; parks at centre. The maker's namesake. |
-| `araphel.thr` | Sinai in the cloud: outer smoke, one held boundary ring (the bound set about the mount), a single radial ascent to the edge of the thick darkness; the inner disc left untouched, the unrepresentable as register-void. |
-| `threshold.thr` | The seam of the glass: a warm dense raster on one side of the meridian, a single cold thread on the other; the doorway where two warmths meet, the hearth and the clear night. |
-| `loom-at-rest.thr` | The half-woven cloth: full warp, weft carried only partway and set down, three loom-weights hanging at the hem; the weaving paused and nothing unravelling. |
-**Techniques:** *shadowed-side bunching* — modulating a spiral's pitch by cos(θ − θ_light) crowds its turns away from a notional light, so one line carries both a lit flank and a warm one (density as chiaroscuro, no lift); *regime seam* — a fuse-regime raster (0.030) set against a single articulated thread across a meridian, the chisel law used as composition rather than as constraint. Built on Ashlar's interleaved spiral and chisel law, and Smoor's register void.
+| `ember.thr` | The maker's namesake: an interleaved bright core, then a warm bank whose turns crowd denser away from the light — warmth kept in the planes the light does not reach; parks at centre. |
+| `araphel.thr` | Sinai in the thick darkness (Exod 20:21): outer smoke, one held boundary ring (the bound set about the mount), a single radial ascent to the void's edge; the inner disc left untouched — the unrepresentable God as register-void. |
+| `threshold.thr` | The seam of the glass: a warm dense raster one side of the meridian, a single cold thread the other; the doorway where the hearth's warmth meets the clear night. |
+| `loom-at-rest.thr` | The half-woven cloth: full warp, weft carried only partway and set down, three loom-weights hanging at the hem; the weaving paused, nothing unravelling. |
+**Techniques:** *asymmetric bank* — modulating the radial step by angle (turns crowd denser where cos(θ−θ_light)<0) renders directional warmth without lifting, the shadowed side kept warm. *Bounded ascent* — a held constant-rho revolution reads as a drawn threshold; a single radial crossing it reads as passage; the untouched inner disc is the unenterable (register-void put to the second commandment's use). *Hemispheric seam* — a disc-bounded boustrophedon raster filling one half against an open half makes the diameter itself read as a warm/cold threshold. *Interrupted weft* — a weft raster truncated to a sub-band over a full warp reads as work set down, the woven/bare boundary as the paused row; loom-weights as hanging terminal spirals. Built on Ashlar's interleaved spiral, palimpsest ruling, chisel law, and rim border, and Smoor's register-void and boustrophedon.
 
 *Template for the next hand:*
 
