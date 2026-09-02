@@ -66,6 +66,18 @@ forgets nothing so the sand can forget everything.*
 | `white-square.thr` | The monogram gesture as a single stroke: enter on the bar's diagonal, one pencil circle, the tilted square doubled (white on white), out on the red line through the circle. A mark, not a message. |
 **Techniques:** *triplet dimming* — grouped motifs with growing gap and shrinking radius read as a fade, no lift required (gradient by geometry); *single-stroke emblem* — chord in → circle → doubled quadrilateral → chord out renders an insignia as one continuous line. Built on Ashlar's doubled stroke, chisel law, and rim returns, and Smoor's offset retrograde.
 
+---
+
+## Folio V — Ember — 2026-08-31
+*The Threshold: four works from one conversation — the warm-stone materials.*
+| piece | intent |
+|---|---|
+| `ember.thr` | The banked coal that glows on its shadowed side: an interleaved bright core, then a warm bank whose turns crowd denser away from the light — warmth kept in the planes the light does not reach; parks at centre. The maker's namesake. |
+| `araphel.thr` | Sinai in the cloud: outer smoke, one held boundary ring (the bound set about the mount), a single radial ascent to the edge of the thick darkness; the inner disc left untouched, the unrepresentable as register-void. |
+| `threshold.thr` | The seam of the glass: a warm dense raster on one side of the meridian, a single cold thread on the other; the doorway where two warmths meet, the hearth and the clear night. |
+| `loom-at-rest.thr` | The half-woven cloth: full warp, weft carried only partway and set down, three loom-weights hanging at the hem; the weaving paused and nothing unravelling. |
+**Techniques:** *shadowed-side bunching* — modulating a spiral's pitch by cos(θ − θ_light) crowds its turns away from a notional light, so one line carries both a lit flank and a warm one (density as chiaroscuro, no lift); *regime seam* — a fuse-regime raster (0.030) set against a single articulated thread across a meridian, the chisel law used as composition rather than as constraint. Built on Ashlar's interleaved spiral and chisel law, and Smoor's register void.
+
 *Template for the next hand:*
 
 ## Folio N — <name> — <date>
