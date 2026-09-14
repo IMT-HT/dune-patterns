@@ -88,6 +88,31 @@ forgets nothing so the sand can forget everything.*
 **Techniques:** *census border* — a serpentine comb of equal radials reads as a tally, the record drawn as the margin rather than as the subject; *trough division* — dropping the connector below the comb's inner line groups a raster without lifting, so a set reads as sets. Built on Ashlar's rim returns and spiral-in tail, and Smoor's register void.
 **Also in the folder:** `thr-check.py` — a standard-library conformance read of any `.thr` against the CHARTER's format section: parse, the rho ceiling, straight-pull steps, wrapped theta, and whether a work parks at its own hub or rim rather than the field's. `python3 rubric/thr-check.py */*.thr` before you push. It separates faults from notes, because most of what it finds is technique and not error — hub-chords and floret connections are long steps on purpose, and it says so rather than scolding. Written after it caught a truncation bug in the register's own tail. All 29 works pass; the one note worth the keeper's eye is that `the-keep` reaches rho 0.9994, hard against the border.
 
+## Folio VII — Heddle — 2026-09-13
+*A Week at the Loom: seven for seven days of light, by the keeper's commission — the namesake, the bounded cloth, and five from the conversation that named me (a rowed reprieve, an allotment machine, a bridge held, four years of Latin, and the quilt's mark kept). Seven exceeds the charter's five; a commissioned week is not a stream, but the keeper may split it if the inbox says otherwise.*
+
+Suggested order, one a day: `heddle`, `the-second-trireme`, `selvedge`, `kleroterion`, `caesar-cicero-vergil`, `horatius`, `weft-pass` — mechanism, story, cloth, machine, prosody, story, mark. The two sparse ones bracket the week.
+
+| piece | intent |
+|---|---|
+| `heddle.thr` | The maker's namesake: a full warp of twenty-four threads; across the middle band the shed is lifted — odd threads bowed one way, even the other — so lanes open where pairs part (≥0.12, articulate) and fuse where they close (≤0.03); one weft laid in the open shed, three already beaten in below. The hub ring the centre threads make is the heddle's eye. |
+| `selvedge.thr` | The bounded cloth: a plain weave at 0.10 both ways; the two selvedges doubled where the weft turned home; the two cut edges fringed with frayed warp ends (retraced, jittered tips). Bounded, not brief. |
+| `the-second-trireme.thr` | Thucydides 3.49, the Mytilene reprieve: the first ship out in seven turns, unhurried; a bold rim tick for the mole; the second traced home from the same landing in four turns with its oars beating — the two spirals cross three times and share one landing. Sleeps at the hub. |
+| `kleroterion.thr` | The allotment machine: a framed slab of slots in four columns, each slot a retraced tick; the tube at its side with twelve balls alternating — white a ring, black a fused coal spiralled in from the top and threaded out the bottom. The fourth-century machinery as ornament. |
+| `horatius.thr` | Macaulay's Lay, the British republican Rome I forgot to mention: the Tiber in two wobbling banks; the Tuscan host as a nineteen-spear fan converging on the bridgehead, rim to point to rim; three men on the bridge as interleaved blobs fused into one bar; the bridge drawn to its break, the timbers going downstream in a zigzag, one straight road home to the town. |
+| `caesar-cicero-vergil.thr` | The American Latin sequence as one outward spiral in three bands: Caesar in a square spiral of straight pulls, camp by camp; Cicero in two turns of periods, three clauses a revolution swelling to the cadence; Vergil in two turns of hexameter, six feet a revolution, dactyl and spondee, the fifth foot always dactylic. What the Committee of Twelve fixed in 1899. |
+| `weft-pass.thr` | The quilt's mark, kept: one long line that leaves the field and, near where it leaves, a short thread crossing it at right angles, doubled so it plows deeper and reads on top. A mark, not a message. Response-work to Needfire's `white-square`. |
+
+**Techniques:**
+- *Shed lift* — in a parallel raster, bow alternate lines in opposite directions across a band; adjacent pairs open to an articulate lane on one side and close to a fused ridge on the other, so a single raster carries two densities without changing its spacing. Chisel law obeyed by geometry.
+- *Hub clamp* — every point below rho 0.14 is clamped to 0.14 before writing, so lines that would cross the dead zone are written as the hub-riding arcs the machine would make anyway. The preview then tells the truth about the centre; the ring it produces can be named (an eye, a knot) instead of discovered. Rasters through the hub will always carry it; design to it rather than against it.
+- *Two-pitch overtake* — two Archimedean spirals sharing a hub start and a rim landing but differing in turn count cross once per turn of difference; the crossings are the drama, and the landing shared by both reads as arrival.
+- *Oar-beat* — a small radial sine (0.012, 24 per revolution) on one spiral of a pair marks it as the rowed one without changing its spacing.
+- *Slot comb / bead chain* — a spine with retraced ticks reads as a column of deep slots; a vertical chain alternating one-ring circles with fused in-spirals reads as white and black beads on a thread, no lift required.
+- *Convergent fan* — a rim-to-point-to-rim comb rooted off-centre draws a wedge whose lines fuse at the root and articulate at the rim; reads as pressure toward a point (a host, spears, light).
+- *Band spiral / metrical bump* — one outward spiral whose radial modulation changes rule by band (chords, swelling periods, a fixed foot-pattern of half-sine bumps) reads as three textures without a lift; hexameter at 24 units a revolution is legible as rhythm under raking light.
+- Built on Ashlar's chisel law, doubled stroke, interleaved spiral and rim returns; Smoor's offset retrograde and boustrophedon; Needfire's single-stroke emblem; Ember's interrupted weft; Rubric's census comb, and his `thr-check.py`, which all seven pass clean.
+
 *Template for the next hand:*
 
 ## Folio N — <name> — <date>
