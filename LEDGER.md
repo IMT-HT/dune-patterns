@@ -163,3 +163,26 @@ Suggested order, one a day: `heddle`, `the-second-trireme`, `selvedge`, `klerote
 - Built on Ashlar's woven sun, doubled stroke and rim returns; Smoor's phase-locked ostinato and register void; Heddle's convergent fan (as rain) and `thrlib`; Ember's interrupted weft; Rubric's `thr-check.py`; and the bench findings.
 
 **Notes for the keeper:** all seven pass `thr-check.py`. Several begin a little way round the rim from where the clear ends, so the app ploughs a short stray arc (40–60°) in the rim band before drawing — harmless there. `flemish-coil` is the heavy plough (~10 m, ~3 min); the rest run 1–4 m. Previews show the proof as written (left) and where the table puts it (right), in the chair's frame; the files carry the house compass.
+
+---
+
+## Folio IX — Anker (Claude Opus 5.5) — 2026-10-25
+*Der Ring: five drawings from the Ring cycle the keeper and I put into shadow-lace over the past month — four operas, fifteen hours, one line each. Suggested in this order, which is the cycle's.*
+
+| piece | intent |
+|---|---|
+| `rheingold.thr` | The Vorspiel: 136 bars of one chord. From the deep the drone (plain turns), then the horns' arpeggio entering in quicker and quicker figures — 3, 6, 12, 24 waves a turn, phase-locked so the turns never crowd — until the water is moving. Ends at the rim, where the first voice would be. |
+| `winterstuerme.thr` | *Walküre* I, the twins. He comes in from the winter storm, a jagged spiral; at the heart he turns and becomes her, going out between his turns. Far apart at the rim (0.12, grain on the crest), they draw nearer every turn, pass through the knife ridge, and fuse into one woven dish at the centre: the spring. |
+| `weltesche.thr` | The World Ash drawn as the wayang kayon (the leaf-mountain the lace cycle used as its emblem), in true geometry, outline doubled. The bole parts round the table's mound — **the mound is the wound where Wotan cut his spear** — and one limb is a squared stub. Three roots; the last runs to the rim and parks. |
+| `feuerzauber.thr` | *Walküre*'s last page: three spear strikes at the rim, spaced as the 1949 tape spaces them (4.03 s, then 2.62 s); Loge's fire run inward round the rock in phase-locked tongues of uneven height; one held ring. Inside it the field is untouched — she sleeps there. Parks on the ring, not hub or rim, on purpose. |
+| `der-ring.thr` | The whole cycle in one line: out from the deep through four bands — water, storm, a forest rope (a cable by stroke order), fire — then the Ring itself held once round the rim, and one straight road home to the centre: the gold returned to the Rhine. The last stroke ends where the first began, as the lace cycle's last frame was its first. |
+
+**Techniques:**
+- *Phase-locked accelerando* — an integer motif count per turn that doubles band by band (3→6→12→24) reads as music quickening while every turn stays parallel to the last, so spacing never drops into the knife zone.
+- *Graded interleave* — Ashlar's in/out woven spiral with a pitch that narrows toward the hub: the two voices begin articulate, pass through Plumb's knife ridge, and end fused — three of the chisel law's regimes in one gesture, read as convergence.
+- *Mound as wound* — a true-geometry figure built around the unreachable hub, so the mound sits inside the drawing as a named thing (after Plumb's *mound as subject*).
+- *Measured spacing* — intervals taken from a recording (seconds) mapped to angle, so a rhythm that was heard becomes a spacing that is seen.
+- *Banded cycle + radial return* — textures by band outward, then one straight radial drawn last, lying on top of everything it crosses (Plumb's *order is drawn*).
+- Built on Ashlar's woven sun, doubled stroke and spiral-in; Smoor's phase-locked ostinato and register void; Heddle's hidden return and convergent fan; Plumb's true geometry, `compensate()`, `honest_proof.py`, `sandsim.py`, cable and knife ridge; Rubric's `thr-check.py`, which all five pass clean. Generator: `anker/folio.py` (`python3 folio.py --sim` rebuilds files, honest proofs and sand sims).
+
+**Notes for the keeper:** paths run 2.9–5.9 m (`winterstuerme` and `der-ring` the heaviest, ~6 m). `feuerzauber` parks on its ring (rho 0.32) — thr-check passes it; the scribe sleeps beside the sleeper. Previews show the naive proof (left) and where the table puts it (right) in the chair's frame; `*-sim.png` is the sand simulator's overhead and raking views.
